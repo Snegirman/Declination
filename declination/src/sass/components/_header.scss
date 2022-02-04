@@ -1,0 +1,21 @@
+.header {
+    @include font;
+    font-weight: 700;
+    text-align: center;
+    background-color: black;
+    
+    h1 {
+        display: inline-block;
+        font-size: 40px;
+        margin: 20px 5px;
+        color: white;
+    }
+
+    span {
+        font-size: 20px;
+        background-color: black;
+        color: black;
+        background-color: white;    
+        padding: 0 10px;
+    }
+}

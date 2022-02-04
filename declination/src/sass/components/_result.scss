@@ -1,0 +1,32 @@
+.result {
+    width: 100%;
+    margin-top: 50px;
+
+    .result__title {
+        @include font;
+        font: {
+            size: 25px;
+            weight: 700;
+        }
+        padding: 20px;
+        width: 100%;
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+
+    .result__list{
+        margin-top: 50px;
+        text-align: center;
+        .result__list-item {
+            @include font;
+            font-size: 20px;
+            padding: 10px;
+            .result__answer-word {
+                display: inline-block;
+                min-width: 100px;
+                padding: 0 10px;
+            }
+        }
+    }
+}

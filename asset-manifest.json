@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/declination/static/css/main.48e92fe4.css",
+    "main.js": "/declination/static/js/main.b30829b8.js",
+    "index.html": "/declination/index.html",
+    "main.48e92fe4.css.map": "/declination/static/css/main.48e92fe4.css.map",
+    "main.b30829b8.js.map": "/declination/static/js/main.b30829b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e92fe4.css",
+    "static/js/main.b30829b8.js"
+  ]
+}
